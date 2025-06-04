@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GbollyAnaltic
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning maching Learning and AI
+- 🌱 I’m an expert in Technical system analysis
 - 💞️ I’m looking to collaborate on project related to data analysis 
 - 📫 How to reach me hargbolahor104@gmail.com
 
