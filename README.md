@@ -1,4 +1,4 @@
-# Hi, I'm Gbolahan 👋
+# Hi, I'm Gbolahan(OG) 👋
 
 ## Senior QA Automation Engineer | SDET | Quality Engineer | Software Developer
 
